@@ -1,0 +1,1 @@
+<a href="/profile/{{$invite['user_id']}}"></a>
